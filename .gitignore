@@ -1,4 +1,4 @@
-node_modules
+/proxy/node_modules
 gallery/
 moreplaces/
 reservations/
