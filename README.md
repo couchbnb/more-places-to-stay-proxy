@@ -1,10 +1,9 @@
-#reservations_proxy_server#
+# more-places-to-stay-proxy
 
 serves a single access point page of all properties 
 
 
-# more-places-to-stay-proxy
-
+# instruction
 run the following files
 
 /Image-Gallery/index.js
